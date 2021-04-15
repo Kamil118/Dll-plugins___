@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+C:\Users\Kamil\OneDrive\Kod\Dll Plugins\Dll2\dllmain.cpp(30,98): error C2526: 'get_constructors': C linkage function cannot return C++ class 'std::vector<plugin_constructor *,std::allocator<plugin_constructor *>>'
+C:\Users\Kamil\OneDrive\Kod\Dll Plugins\Dll2\dllmain.cpp(30): message : see declaration of 'std::vector<plugin_constructor *,std::allocator<plugin_constructor *>>'
+C:\Users\Kamil\OneDrive\Kod\Dll Plugins\Dll2\dllmain.cpp(34,15): error C2562: 'get_constructors': 'void' function returning a value
+C:\Users\Kamil\OneDrive\Kod\Dll Plugins\Dll2\dllmain.cpp(30): message : see declaration of 'get_constructors'
